@@ -21,7 +21,7 @@ const options = {
   link1Url: "/",
   link2Url: "/products",
   // link3Url: "/about",
-  link4Url: "/contact",
+  // link4Url: "/contact",
   link3Url: "/login",
   link4Url: "/cart",
   link1Size: "1.3vmax",
